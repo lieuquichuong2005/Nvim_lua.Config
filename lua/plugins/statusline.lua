@@ -1,1 +1,1 @@
-return { "echasnovski/mini.statusline", version = false, opts = {} }
+return { "nvim-mini/mini.icons", version = false, opts = {} }
